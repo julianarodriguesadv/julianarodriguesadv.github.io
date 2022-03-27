@@ -18,17 +18,17 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Juliana Rodrigues Advocacia
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+email      : julianas.adv@hotmail.com #this is also the email contact forms will go to
+description: "Juliana Rodrigues Advocacia"
 author     : Juliana Rodrigues
 logo:     #optional, defaults to site title
   path: assets\img\logo-horizontal-bege.png
-  height: 100 #height in px, defaults to 52px
+  height: 90 #height in px, defaults to 52px
 
 locale: "pt-BR" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: "G-C4JJJE0LDB" #Google Analytics tracking code here
 
 collections:
   portfolio:

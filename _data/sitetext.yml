@@ -130,8 +130,8 @@ pt: &DEFAULT_PT
   #           icon: fab fa-linkedin-in
 
   contact:
-    title: "Fale comigo"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contato"
+    text: "Quer um atendimento especializado? Mande-me uma mensagem."
     section: contact
     name: "Nome*"
     name-validation: "Por favor, digite o seu nome."

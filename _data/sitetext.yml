@@ -148,7 +148,7 @@ pt: &DEFAULT_PT
     legal: "Privacy Policy"
     social:
       - url: https://wa.me/message/B4OJANOJWSBFH1
-        icon: "fab fa-whatsapp-square"
+        icon: "fab fa-whatsapp"
       - url: https://m.facebook.com/juliiana.adv/
         icon: "fab fa-facebook-f"
       - url: https://www.linkedin.com/in/juliana-frodrigues/

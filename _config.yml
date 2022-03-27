@@ -23,9 +23,9 @@ description: "Agency Bootstrap theme converted to a Jekyll theme, plus new featu
 author     : Juliana Rodrigues
 logo:     #optional, defaults to site title
   path: assets\img\logo-circular-bege.png
-  height: 60 #height in px, defaults to 52px
+  height: 100 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: "pt-BR" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here

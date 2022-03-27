@@ -7,6 +7,21 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
+# Portiguese (default)
+# -----------------
+pt: &DEFAULT_PT
+  nav:
+    - title: "Serviços"
+      section: services
+    - title: "Portfolio"
+      section: portfolio
+    - title: "Sobre"
+      section: about
+    - title: "Contato"
+      section: contact
+pt-BR:
+  <<: *DEFAULT_PT
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN

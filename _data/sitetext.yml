@@ -145,7 +145,7 @@ pt: &DEFAULT_PT
     submit: "Enviar mensagem"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Política de Privacidade"
     social:
       - url: https://wa.me/message/B4OJANOJWSBFH1
         icon: "fab fa-whatsapp"
